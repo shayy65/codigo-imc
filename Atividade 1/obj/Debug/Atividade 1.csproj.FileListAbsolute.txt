@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\Atividade 1\Atividade 1\obj\Debug\Atividade 1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\Atividade 1\Atividade 1\obj\Debug\Atividade 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\Atividade 1\Atividade 1\obj\Debug\Atividade_1.Form1.resources
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\Atividade 1\Atividade 1\obj\Debug\Atividade_1.Properties.Resources.resources
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\Atividade 1\Atividade 1\obj\Debug\Atividade 1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\Atividade 1\Atividade 1\obj\Debug\Atividade 1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\Atividade 1\Atividade 1\bin\Debug\Atividade 1.exe.config
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\Atividade 1\Atividade 1\bin\Debug\Atividade 1.exe
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\Atividade 1\Atividade 1\bin\Debug\Atividade 1.pdb
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\Atividade 1\Atividade 1\obj\Debug\Atividade 1.exe
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\Atividade 1\Atividade 1\obj\Debug\Atividade 1.pdb
